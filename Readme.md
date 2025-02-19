@@ -55,6 +55,3 @@ The app should now be running at `http://localhost:3000`.
 - Add a scoreboard.
 - Improve UI with animations.
 
-## License
-This project is licensed under the MIT License.
-
