@@ -54,4 +54,5 @@ The app should now be running at `http://localhost:3000`.
 - Implement AI for single-player mode.
 - Add a scoreboard.
 - Improve UI with animations.
+![image](https://github.com/user-attachments/assets/b5ccb511-fdf6-455b-bcdd-a3759f19def4)
 
